@@ -16,3 +16,9 @@ https://gist.github.com/hjmeijer/1cae9a262ed9f93f938c
 https://github.com/Nuclearstar/K-Anonymity
 
 https://colab.research.google.com/github/google/eng-edu/blob/master/ml/cc/exercises/intro_to_ml_fairness.ipynb (not used?)
+
+We also used:
+https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en
+https://en.wikipedia.org/wiki/L-diversity
+https://en.wikipedia.org/wiki/T-closeness
+https://www.cs.purdue.edu/homes/ninghui/papers/t_closeness_icde07.pdf
