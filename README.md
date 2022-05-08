@@ -22,3 +22,5 @@ https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-an
 https://en.wikipedia.org/wiki/L-diversity
 https://en.wikipedia.org/wiki/T-closeness
 https://www.cs.purdue.edu/homes/ninghui/papers/t_closeness_icde07.pdf
+
+https://www.epfl.ch/education/educational-initiatives/jupyter-notebooks-for-education/teaching-and-learning-with-jupyter-notebooks/exercise-worksheets-with-jupyter-notebooks/
